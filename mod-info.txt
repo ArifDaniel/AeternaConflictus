@@ -1,9 +1,9 @@
 [mod]
 title: Aeterna Conflictus
-description: "There's no reason to start a war but here we are, an endless war between good and evil factions. All of this started because of one thing; Conflict."\n"Not much to explain here, so join this war. Why? Because this is Rusted Warfare and you are obliged to join the war. Come with us, take your stained hands to the battlefield and show us your cards, player."\n\nYou might be confused about this description but idc, go familiarise yourself with mod mechanism and terminology. If you ask, no, there's no neutral factions but we do have factionless units.
+description: "There's no reason to start a war but here we are, an endless war between good and evil factions. All of this started because of one thing; Conflict."\n"Not much to explain here, so join this war. Why? Because this is Rusted Warfare and you are obliged to join the war. Come with us, take your stained hands to the battlefield and show us your cards, player."\n\nYou might be confused about this description but idc, go familiarise yourself with mod mechanism and terminology. If you ask, no, there's no neutral factions but we do have factionless units. 
 
 minVersion: 1.15
 
 #[music]
-#sourceFolder: bangers
+#sourceFolder: music
 #whenUsingUnitsFromThisMod_playExclusively: true
